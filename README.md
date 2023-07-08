@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gxuri
 - 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Open Source Project
 
 <!---
